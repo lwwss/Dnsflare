@@ -1,9 +1,3 @@
-# Dnsflare
-
-可视化的修改 Cloudflare Zone 的解析地址
-
-------------
-
 # 适用CloudFlare Pages
 
 ## Workers解决跨域问题
@@ -67,7 +61,9 @@ addEventListener('fetch', event => {
 
 ------------
 
-# 作者介绍
+# Dnsflare作者介绍
+
+可视化的修改 Cloudflare Zone 的解析地址
 
 ## 原因
 Cloudflare 非常鸡贼的 ban 掉了 `externallyManaged` 用户访问 Cloudflare 控制台编辑 DNS Record 的功能, 然后有些 Partner 又已经跑了 ~~不是~~, 但是又眼馋 pro
