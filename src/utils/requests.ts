@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const AxiosClient = axios.create({
-    baseURL: 'https://dnsflare.lms.workers.dev',
+    baseURL: 'https://ty.mk/client/v4',
     timeout: 15000,
 })
 
