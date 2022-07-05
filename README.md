@@ -53,7 +53,7 @@ addEventListener('fetch', event => {
 
 ## 修改程序API路径
 
-全局API路径位于`/src/utils/requests.ts`第4行`baseURL`，编译后文件位于`build.*.js`第2258行`baseURL`，与反代路径相对应进行修改
+全局API路径位于`/src/utils/requests.ts`第4行`baseURL`，编译后文件位于`build.*.js`第2258行`baseURL`，依照反代路径相对应进行修改
 
 
 ## Pages部署
