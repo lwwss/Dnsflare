@@ -3,6 +3,12 @@
         style="background-color: rgb(238, 241, 246);"
     >
         <div class="container app-header">
+            <el-link href="https://amzcn.com/">
+               AmzCN Home
+            </el-link>
+           <el-link href="https://dns.amzcn.com/">
+               AmzCN DnsFlare
+            </el-link>
             <el-link href="https://github.com/Indexyz/Dnsflare">
                 Dnsflare
             </el-link>
