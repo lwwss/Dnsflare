@@ -5,11 +5,11 @@
             <el-link href="https://amzcn.com/">
                AmzCN Home
             </el-link>
-            &emsp; "|"
+            &emsp; 
            <el-link href="https://dns.amzcn.com/">
                AmzCN DnsFlare
             </el-link>
-             &emsp; "|"
+             &emsp; 
             <el-link href="https://github.com/Indexyz/Dnsflare">
                 Dnsflare
             </el-link>
